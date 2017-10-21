@@ -1,4 +1,4 @@
 # SpotifyYoutubeLyricsAPI
 Get current song lyrics
 
-<img src="https://s1.postimg.org/3sqccnqxa7/Screenshot_1.png" width="100" height="100"/>
+<img src="https://s1.postimg.org/3sqccnqxa7/Screenshot_1.png"/>
